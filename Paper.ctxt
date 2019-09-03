@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Paper
+comment0.text=\r\n\ Paper.java\r\n\ Represents\ an\ information\ slip\ that\ holds\ the\ info\ of\ the\ project.\r\n\ @author\ Deniz\ Sert\r\n\ @version\ January\ 3,\ 2018\r\n
+comment1.params=_customerName\ _customerCell\ _customerEmail\ _projectNum\ _projectColor
+comment1.target=Paper(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ \r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ \r\n\ \r\n\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getCell()
+comment3.text=\r\n\ \r\n\ \r\n\ \r\n
+comment4.params=
+comment4.target=java.lang.String\ getEmail()
+comment4.text=\r\n\ \r\n\ \r\n\ \r\n
+comment5.params=
+comment5.target=java.lang.String\ getNum()
+comment5.text=\r\n\ \r\n\ \r\n\ \r\n
+comment6.params=
+comment6.target=java.lang.String\ getColor()
+comment6.text=\r\n\ \r\n\ \r\n\ \r\n
+comment7.params=
+comment7.target=java.lang.String\ toString()
+comment7.text=\r\n\ \r\n\ \r\n\ \r\n
+numComments=8

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Stack
+comment0.text=\r\n\ Stack.java\r\n\ This\ class\ represents\ a\ stack\ of\ filled\ information\ cards.\r\n\ @author\ Deniz\ Sert\r\n\ @version\ January\ 3,\ 2018\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
