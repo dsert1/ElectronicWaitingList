@@ -17,9 +17,7 @@ public class Paper implements Serializable{
     private String projectColor;
 
     /**
-     * 
-     * 
-     * 
+     * Initializes a Paper object with a name, cell phone, email, project number, and project color
      */
     public Paper(String _customerName, String _customerCell, String _customerEmail, String _projectNum, String _projectColor){
         customerName=_customerName;
@@ -30,9 +28,7 @@ public class Paper implements Serializable{
     }
 
     /**
-     * 
-     * 
-     * 
+     * @return returns name
      */
     public String getName(){
         return customerName;
@@ -40,9 +36,7 @@ public class Paper implements Serializable{
     }
 
     /**
-     * 
-     * 
-     * 
+     * @return returns cell phone number
      */
     public String getCell(){
         return customerCell;
@@ -50,9 +44,7 @@ public class Paper implements Serializable{
     }
 
     /**
-     * 
-     * 
-     * 
+     * @return returns customer email
      */
     public String getEmail(){
         return customerEmail;
@@ -60,9 +52,7 @@ public class Paper implements Serializable{
     }
 
     /**
-     * 
-     * 
-     * 
+     * @return returns project number
      */
     public String getNum(){
         return projectNum;
@@ -70,9 +60,7 @@ public class Paper implements Serializable{
     }
 
     /**
-     * 
-     * 
-     * 
+     * @return returns project color
      */
     public String getColor(){
         return projectColor;
@@ -80,9 +68,7 @@ public class Paper implements Serializable{
     }
 
     /**
-     * 
-     * 
-     * 
+     * @return returns String representation of Paper object
      */
     public String toString(){
         return customerName + "\t\t" + customerCell + "\t\t" + customerEmail+ "\t\t" + projectNum + "\t\t" + projectColor;
