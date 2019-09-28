@@ -21,8 +21,8 @@ public class Paper implements Serializable{
      * @param _customerName the name of the customer
      * @param _customerCell the cell phone number of the customer
      * @param _customerEmail the email of the customer
-     * @param _projectNum
-     * @param _projectColor
+     * @param _projectNum the number of the project
+     * @param _projectColor the color of the project
      */
     public Paper(String _customerName, String _customerCell, String _customerEmail, String _projectNum, String _projectColor){
         customerName=_customerName;
